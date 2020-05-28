@@ -6,6 +6,6 @@ Features
    Philippines Watcher and Worldwide Watcher
 
 JSON APIs <br>
-  https://corona.lmao.ninja/countries/Philippines -> displays data for the Philippines <br>
-  https://corona.lmao.ninja/countries/ -> displays data for countries Worldwide <br>
-  https://corona.lmao.ninja/all -> displays number of results(cases, deaths, recovered and etc.) wordwide
+  https://corona.lmao.ninja/v2/countries/Philippines -> displays data for the Philippines <br>
+  https://corona.lmao.ninja/v2/countries/ -> displays data for countries Worldwide <br>
+  https://corona.lmao.ninja/v2/all -> displays number of results(cases, deaths, recovered and etc.) wordwide
